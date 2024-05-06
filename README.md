@@ -5,7 +5,7 @@
 
 projects: 
 <a href="https://rmutairi.github.io/weather/ ">
- 
+ <button> check it out </button>
 </a>
 
 <!---
