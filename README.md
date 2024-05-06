@@ -3,9 +3,10 @@
 -  I’m currently learning Java , Css , threejs
 
 
-project: https://rmutairi.github.io/weather/
-
-
+projects: 
+<a href="https://rmutairi.github.io/weather/ ">
+ 
+</a>
 
 <!---
 rmutairi/rmutairi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
