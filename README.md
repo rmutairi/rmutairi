@@ -8,6 +8,9 @@ projects:
  <button> check it out ! </button>
 </a>
 
+<p><a href="mailto:raidzaid655@gmail.com">Contact</a></p>
+
+
 <!---
 rmutairi/rmutairi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
