@@ -1,11 +1,11 @@
 -  Hi, I’m @rmutairi
 -  I’m interested in GIS
--  I’m currently learning Java , Css , threejs
+-  I’m currently learning Java , Css , threejs,GIS
 
 
 projects: 
 <a href="https://rmutairi.github.io/weather/ ">
- <button> check it out </button>
+ <button> check it out ! </button>
 </a>
 
 <!---
