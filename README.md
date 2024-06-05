@@ -4,16 +4,6 @@
 
 
 projects: 
-<br>
-<a href="https://rmutairi.github.io/weather/ ">
- <button> check it out ! </button>
-</a>
-<br>
-<a href="https://rmutairi.github.io/simpletest/ ">
- <button> simple test! </button>
-</a>
-<br>
-<p><a href="mailto:raidzaid655@gmail.com">Contact</a></p>
 
 
 <!---
